@@ -1,0 +1,1 @@
+A responsive personal finance tracker built with vanilla HTML, CSS & JavaScript featuring real-time expense tracking, category-wise budget monitoring, interactive charts, and persistent local storage.
